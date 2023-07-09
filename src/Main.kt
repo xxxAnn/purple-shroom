@@ -1,6 +1,3 @@
-import berry.User
-import model.Request
-
 fun main() {
     var ps = PurpleShroom()
     ps.startConnection("127.0.0.1", 7878)
